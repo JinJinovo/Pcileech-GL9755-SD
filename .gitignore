@@ -1,0 +1,15 @@
+# Vivado project directories (created by vivado_generate_project_*.tcl)
+pcileech_tbx4_100t/
+pcileech_enigma_x1/
+pcileech_pciescreamer/
+pcileech_squirrel/
+pcileech_screamer_m2/
+
+# Vivado scratch / report files
+.Xil/
+*.str
+*.jou
+*.log
+
+# build outputs
+*.bin
